@@ -4,7 +4,7 @@ Test Bàsic de PhoneGap
 29/11/2015
 
 
-Informàtica 4t ESO 2015 2016
+Informàtica 1r BATX 2015 2016
 INS Numància 
 Santa Coloma de Gramenet
 
