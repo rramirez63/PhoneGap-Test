@@ -3,13 +3,22 @@
 */
 
 $JSView.controller = {
-    viewA: function(e){
+    inici: function(e){
 		$JSView.dataView({},e)
 	},
-    viewB: function(e){
+    dia1: function(e){
 		$JSView.dataView({},e)	
 	},
-    viewC: function(e){
+    dia2: function(e){
+		$JSView.dataView({},e)
+	},
+    dia3: function(e){
+		$JSView.dataView({},e)
+	},
+    dia4: function(e){
+		$JSView.dataView({},e)
+	},
+    dia5: function(e){
 		$JSView.dataView({},e)
 	},
     modalA: function(e){
