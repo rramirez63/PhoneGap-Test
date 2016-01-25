@@ -2,23 +2,23 @@
     
 <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "cat.numancia.agendalondres2016_1moreyo"
-        versionCode = "24" 
-        version     = "1.0.24" >
+        id          = "cat.numancia.agendalondres2016_samivon"
+        versionCode = "25" 
+        version     = "1.0.25" >
 	
 	<!-- versionCode is optional and Android only -->
 
 	<preference name="phonegap-version" value="cli-5.2.0" />
 
-    <name>Agenda Londres 2016</name>
+    <name>Agenda Londres 2016 (samivon)</name>
 
    <description>
-       Aplicació phonegap del salumnes de 1r de batxillerat info Curs 2015 2016
+       Aplicació phonegap del salumnes de 1r de batxillerat info Curs 2015 2016 del grup Samivon
     </description>
 
-    <author href="https://numancia.cat/intranet" email="mpueyo12@iesnumancia.cat">
-       Marta Pueyo Muñido
-       Laura Moreno Pozo
+    <author href="https://numancia.cat/intranet" email="ihortigon38@iesnumancia.cat">
+       Yvonne & Samantha Hortigon
+       
     </author>
 
 	<content src="index.html"/>
