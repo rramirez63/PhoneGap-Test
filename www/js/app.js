@@ -41,9 +41,9 @@ window.addEventListener('load', function() {
     /*Declare modal*/
     $JSView.declareModal({
         modalA: {
-            url: '/modalA',
-            template: 'views/modalA.html',
-            controller: 'modalA'
+            url: '/modal_info_aeroport',
+            template: 'modal_info_aeroport.html',
+            controller: 'modal_info_aeroport'
         }
     });
      
