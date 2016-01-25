@@ -21,7 +21,7 @@ $JSView.controller = {
     dia5: function(e){
 		$JSView.dataView({},e)
 	},
-    modalA: function(e){
+    modal_info_aeroport: function(e){
 		$JSView.dataView({},e)	
 	}
 }
