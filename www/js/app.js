@@ -35,6 +35,11 @@ window.addEventListener('load', function() {
             url: '/dia5',
             template: 'views/dia5.html',
             controller: 'dia5'
+        },
+        contactes: {
+            url: '/contactes',
+            template: 'views/contactes.html',
+            controller: 'contactes'
         }
     });
      
