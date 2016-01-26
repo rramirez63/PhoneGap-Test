@@ -4,7 +4,7 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "cat.numancia.agendalondres2016_samivon"
         versionCode = "25" 
-        version     = "1.0.25" >
+        version     = "1.0.26" >
 	
 	<!-- versionCode is optional and Android only -->
 
