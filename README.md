@@ -4,8 +4,8 @@ Informàtica 1r batxillerat 2015 2016
 INS Numància 
 Santa Coloma de Gramenet
 
-Yvonne Hortigon Soligo
-Samantha Hortigon Soligo
+Raquel Ramírez Fita
+
 
 L'arxiu index inclou una estructura bàsica per crear una 
 aplicació mòbil senzilla i dues opcions per crear transicions
